@@ -1,18 +1,17 @@
 # Hi there, I'm Ho Hoang Duy (StevenDuy) 👋
 
-I'm a Software Engineer with a strong focus on Frontend Development, AI Integration, and practical application building. I enjoy bridging the gap between software and hardware, creating systems that are both highly functional and optimized.
+I'm a Software Engineer with a strong focus on Frontend Development, AI Integration, and building practical, user-centric web applications.
 
 ### 🚀 Technical Skills
 *   **Frontend:** ReactJS, Next.js, Tailwind CSS, HTML/CSS/JS
 *   **Backend & DB:** Laravel, MySQL, RESTful APIs
-*   **Hardware & Embedded:** C++, Arduino Nano, JDY-31 Bluetooth modules, Motor Drivers (TB6612FNG/DRV8833)
 *   **Tools & Others:** Git, AI-assisted development (Copilot, Claude)
 
 ### 💡 Featured Projects
 
 *   **[NeedStu](https://github.com/StevenDuy/NeedStu):** An all-in-one, offline-first Progressive Web App (PWA) designed for students. Features include expense tracking, utility tools, and free API integrations, built to run smoothly without the need for a heavy backend.
 *   **[ShopDee](https://github.com/StevenDuy/ShopDee):** An AI-powered e-commerce platform utilizing a three-tier architecture (Laravel API + Next.js + Python microservice) with AI fraud detection (RF + SVM + SMOTE) and Cloudinary integration.
-*   **Bluetooth Robotic Vehicle:** An embedded systems project featuring C++ control logic, differential steering, and a servo-operated gripper. The system is managed via a JDY-31 SPP 3.0 Bluetooth module and incorporates melodic audio, functional lights, and terrain-sensing capabilities.
+*   **[Portfolio](https://github.com/StevenDuy/Portfolio):** My personal portfolio website showcasing my journey, skills, and featured projects, built with modern web technologies.
 
 ### 📫 Let's Connect
 *   **Portfolio:** [stevenduy.io.vn](https://www.stevenduy.io.vn/)
