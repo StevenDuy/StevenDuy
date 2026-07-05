@@ -9,7 +9,6 @@ I'm a Software Engineer with a strong focus on Frontend Development, AI Integrat
 
 ### 💡 Featured Projects
 
-*   **[NeedStu](https://github.com/StevenDuy/NeedStu):** An all-in-one, offline-first Progressive Web App (PWA) designed for students. Features include expense tracking, utility tools, and free API integrations, built to run smoothly without the need for a heavy backend.
 *   **[ShopDee](https://github.com/StevenDuy/ShopDee):** An AI-powered e-commerce platform utilizing a three-tier architecture (Laravel API + Next.js + Python microservice) with AI fraud detection (RF + SVM + SMOTE) and Cloudinary integration.
 *   **[Portfolio](https://github.com/StevenDuy/Portfolio):** My personal portfolio website showcasing my journey, skills, and featured projects, built with modern web technologies.
 
